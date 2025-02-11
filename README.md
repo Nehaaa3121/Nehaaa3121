@@ -1,7 +1,7 @@
 
 [![MasterHead](https://media.licdn.com/dms/image/C5612AQHBXZ_RjbDU4g/article-cover_image-shrink_720_1280/0/1625709547589?e=2147483647&v=beta&t=hKxiny11FzCvuude-mZS4phCcalSzVlwibVs7A1rriY)](https://nehaa3121.io)
 <h1 align="center">Hi 👋, I'm Neha Choudhary</h1>
-<h3 align="center">A passionate Software Developer From India</h3>
+<h3 align="center">A passionate Data Engineer From India</h3>
 
 - 🌱 I’m currently learning **Backend Development**
 
